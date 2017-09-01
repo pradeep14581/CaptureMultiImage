@@ -1,3 +1,2 @@
 # CaptureMultiImage
-Capture images
-this application captures continuous images using camera2 api.
+This application captures continuous images using camera2 api Android studio
